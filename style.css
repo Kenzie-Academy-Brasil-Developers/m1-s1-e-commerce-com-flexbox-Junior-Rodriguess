@@ -48,13 +48,6 @@ div.menu-column {
     align-items: center;
     border-radius: 4px;
 }
-.products-ul{
-    list-style: none;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-}
 
 .products-li{
     display: flex;
